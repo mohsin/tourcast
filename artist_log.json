@@ -1,4 +1,155 @@
 {
-  "last_checked": null,
-  "artists": []
+  "last_checked": "2026-06-01",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "tour_name": "After Hours Til Dawn Tour",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": null,
+      "entries": [
+        {
+          "city": "Tokyo",
+          "country": "Japan",
+          "venue": "Belluna Dome",
+          "date": "2026-09-20",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        },
+        {
+          "city": "Jakarta",
+          "country": "Indonesia",
+          "venue": "Jakarta International Stadium",
+          "date": "2026-09-26",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "National Stadium",
+          "date": "2026-10-02",
+          "confirmed": true,
+          "source_url": "https://www.livenation.asia/the-weeknd-tickets-adp474869"
+        },
+        {
+          "city": "Seoul",
+          "country": "South Korea",
+          "venue": "Goyang Stadium",
+          "date": "2026-10-07",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        },
+        {
+          "city": "Bangkok",
+          "country": "Thailand",
+          "venue": "Rajamangala Stadium",
+          "date": "2026-10-11",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": null,
+          "date": "2026-10-16",
+          "confirmed": true,
+          "source_url": "https://urbanchronicle.in/2026/02/27/the-weeknd-to-make-historic-india-debut-in-october-2026-mumbai-and-ahmedabad-brace-for-a-night-to-remember/"
+        },
+        {
+          "city": "Ahmedabad",
+          "country": "India",
+          "venue": null,
+          "date": "2026-10-17",
+          "confirmed": true,
+          "source_url": "https://urbanchronicle.in/2026/02/27/the-weeknd-to-make-historic-india-debut-in-october-2026-mumbai-and-ahmedabad-brace-for-a-night-to-remember/"
+        },
+        {
+          "city": "Hong Kong",
+          "country": "Hong Kong",
+          "venue": "Kai Tak Stadium",
+          "date": "2026-10-30",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        },
+        {
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "venue": "TM Stadium National",
+          "date": "2026-11-04",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "BTS",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "tour_name": "Arirang World Tour",
+      "india_likelihood": "Medium",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible before the Australia leg",
+      "entries": [
+        {
+          "city": "Kaohsiung",
+          "country": "Taiwan",
+          "venue": "National Stadium",
+          "date": "2026-11-19",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Bangkok",
+          "country": "Thailand",
+          "venue": "ThaiBev Stadium",
+          "date": "December 2026",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "venue": "Axiata Arena",
+          "date": "December 2026",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "Marina Bay Floating Platform",
+          "date": "2026-12-17",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Jakarta",
+          "country": "Indonesia",
+          "venue": "Gelora Bung Karno Main Stadium",
+          "date": "2026-12-27",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Hong Kong",
+          "country": "Hong Kong",
+          "venue": "Kai Tak Stadium",
+          "date": "2027-03-04",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Bulacan",
+          "country": "Philippines",
+          "venue": "Philippine Sports Stadium",
+          "date": "2027-03-13",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        }
+      ],
+      "notified": false
+    }
+  ]
 }
