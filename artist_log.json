@@ -82,7 +82,7 @@
           "source_url": "https://www.billboard.com/music/rb-hip-hop/the-weeknd-2026-asian-dates-after-hours-til-dawn-tour-1236244092/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "BTS",
@@ -130,7 +130,7 @@
           "venue": "Gelora Bung Karno Main Stadium",
           "date": "2026-12-27",
           "confirmed": true,
-          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official.ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         },
         {
           "city": "Hong Kong",
@@ -149,7 +149,7 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
