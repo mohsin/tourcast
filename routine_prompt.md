@@ -16,6 +16,9 @@ Run the following web searches and read the top results from each:
 2. `international concert tour India announced 2026`
 3. `world tour Southeast Asia Middle East announced site:pitchfork.com OR site:billboard.com OR site:rollingstone.com OR site:pollstar.com`
 4. `tour dates announced India Dubai Singapore 2026`
+5. `rock alternative metal reunion tour Asia 2026 announced`
+6. `EDM electronic DJ world tour Asia 2026 announced`
+7. `site:songkick.com OR site:bandsintown.com Asia India tour 2026`
 
 For each result, extract:
 - Artist name
@@ -34,8 +37,8 @@ Before adding any artist to the log, **verify every claim** using the following 
 ### Trusted source requirements
 A date or announcement is only valid if it is confirmed by **at least one** of the following:
 - The artist's official website or verified social media (Instagram, X/Twitter, Facebook — check for blue/verified tick)
-- A major ticketing platform: Ticketmaster, Live Nation, BookMyShow, Insider (SEA), AXS, StubHub
-- A well-known international music publication: Billboard, Rolling Stone, NME, Pitchfork, Consequence of Sound, Variety
+- A major ticketing platform or tour aggregator: Ticketmaster, Live Nation, BookMyShow, Insider (SEA), AXS, StubHub, **Songkick, Bandsintown**
+- A well-known international music publication: Billboard, Rolling Stone, NME, Pitchfork, Consequence of Sound, Variety, **Kerrang!, Alternative Press, Loudwire**
 - A well-known regional music publication: TimeOut Asia, Bandwagon Asia, Rolling Stone India, Esquire India, MTV Asia
 
 ### Red flags — discard any source that shows these signs
@@ -51,7 +54,7 @@ Do NOT accept any concert announcement associated with the following entities, r
 - Add others here as identified
 
 ### Cross-verification step
-For any India date found: search `[artist name] India [city] [year] site:instagram.com OR site:ticketmaster.com OR site:bookmyshow.com` and confirm the artist's verified accounts have acknowledged it. If no official acknowledgement is found, mark the entry as `confirmed: false` with a note, and set `india_likelihood` to 'Medium' at most — do not mark as 'Confirmed'.
+For any India date found: search `[artist name] India [city] [year] site:instagram.com OR site:ticketmaster.com OR site:bookmyshow.com OR site:songkick.com` and confirm the artist's verified accounts or a major aggregator have acknowledged it. If no official acknowledgement is found, mark the entry as `"confirmed": false` with a note, and set `india_likelihood` to 'Medium' at most — do not mark as 'Confirmed'.
 
 ## Step 2 — Gap analysis: predict India feasibility
 
