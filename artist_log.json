@@ -7,7 +7,7 @@
       "last_updated": "2026-06-01",
       "tour_name": "Arirang World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) — India slot in January 2027 possible before the Australia leg",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible before the Australia leg",
       "entries": [
         {
           "city": "Kaohsiung",
@@ -149,7 +149,7 @@
           "source_url": "https://www.ticketnews.com/2026/05/the-weeknd-to-wrap-after-hours-til-dawn-tour-with-added-asia-run/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Post Malone",
@@ -208,7 +208,7 @@
           "source_url": "https://themusicuniverse.com/post-malone-returns-to-india-to-headline-first-ever-show/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "My Chemical Romance",
@@ -267,7 +267,7 @@
           "source_url": "https://liveforlivemusic.com/news/my-chemical-romance-the-black-parade-2026/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Tyler, The Creator",
@@ -275,7 +275,7 @@
       "last_updated": "2026-06-08",
       "tour_name": "Chromakopia: The World Tour",
       "india_likelihood": "Low",
-      "india_gap_note": "All Asia dates (Tokyo → Seoul → Bangkok → Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
+      "india_gap_note": "All Asia dates (Tokyo \u2192 Seoul \u2192 Bangkok \u2192 Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
       "entries": [
         {
           "city": "Tokyo",
@@ -310,7 +310,7 @@
           "source_url": "https://www.thatericalper.com/2025/02/27/tyler-the-creator-expands-chromakopia-the-world-tour-with-asia-dates/"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
