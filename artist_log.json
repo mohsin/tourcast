@@ -66,7 +66,7 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "The Weeknd",
@@ -353,7 +353,7 @@
           "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
