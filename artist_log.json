@@ -1,13 +1,13 @@
 {
-  "last_checked": "2026-06-08",
+  "last_checked": "2026-06-16",
   "artists": [
     {
       "name": "BTS",
       "first_seen": "2026-06-01",
-      "last_updated": "2026-06-01",
+      "last_updated": "2026-06-16",
       "tour_name": "Arirang World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible before the Australia leg",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) — India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
       "entries": [
         {
           "city": "Kaohsiung",
@@ -20,10 +20,10 @@
         {
           "city": "Bangkok",
           "country": "Thailand",
-          "venue": "ThaiBev Stadium",
-          "date": "December 2026",
+          "venue": "Rajamangala National Stadium",
+          "date": "2026-12-03",
           "confirmed": true,
-          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+          "source_url": "https://www.jambase.com/article/bts-tour-dates-arirang-world-tour-asia-australia"
         },
         {
           "city": "Kuala Lumpur",
@@ -66,7 +66,7 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         }
       ],
-      "notified": true
+      "notified": false
     },
     {
       "name": "The Weeknd",
@@ -275,7 +275,7 @@
       "last_updated": "2026-06-08",
       "tour_name": "Chromakopia: The World Tour",
       "india_likelihood": "Low",
-      "india_gap_note": "All Asia dates (Tokyo \u2192 Seoul \u2192 Bangkok \u2192 Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
+      "india_gap_note": "All Asia dates (Tokyo → Seoul → Bangkok → Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
       "entries": [
         {
           "city": "Tokyo",
@@ -311,6 +311,49 @@
         }
       ],
       "notified": true
+    },
+    {
+      "name": "BIGBANG",
+      "first_seen": "2026-06-16",
+      "last_updated": "2026-06-16",
+      "tour_name": "20/26 World Tour",
+      "india_likelihood": "Medium",
+      "india_gap_note": "14-day window between London (Sep 26) and Taipei (Oct 10) — India sits on the Europe-to-Asia routing path; no prior India concert history but YG confirmed additional cities TBA",
+      "entries": [
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "Singapore National Stadium",
+          "date": "2026-10-17",
+          "confirmed": true,
+          "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
+        },
+        {
+          "city": "Hanoi",
+          "country": "Vietnam",
+          "venue": "My Dinh National Stadium",
+          "date": "2026-10-24",
+          "confirmed": true,
+          "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
+        },
+        {
+          "city": "Bangkok",
+          "country": "Thailand",
+          "venue": "Rajamangala National Stadium",
+          "date": "2026-11-07",
+          "confirmed": true,
+          "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
+        },
+        {
+          "city": "Hong Kong",
+          "country": "Hong Kong",
+          "venue": "Kai Tak Stadium",
+          "date": "2026-11-13",
+          "confirmed": true,
+          "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
+        }
+      ],
+      "notified": false
     }
   ]
 }
