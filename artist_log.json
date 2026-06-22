@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-16",
+  "last_checked": "2026-06-22",
   "artists": [
     {
       "name": "BTS",
@@ -220,7 +220,7 @@
       "entries": [
         {
           "city": "Incheon",
-          "country": "South Korea",
+          "country": "South Kouth Korea",
           "venue": "Paradise City Culture Park",
           "date": "November 2026",
           "confirmed": true,
@@ -275,7 +275,7 @@
       "last_updated": "2026-06-08",
       "tour_name": "Chromakopia: The World Tour",
       "india_likelihood": "Low",
-      "india_gap_note": "All Asia dates (Tokyo → Seoul → Bangkok → Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
+      "india_gap_note": "All Asia dates (Tokyo -> Seoul -> Bangkok -> Manila) are 3-4 days apart; no routing gap for India; no prior India concert history",
       "entries": [
         {
           "city": "Tokyo",
@@ -315,10 +315,10 @@
     {
       "name": "BIGBANG",
       "first_seen": "2026-06-16",
-      "last_updated": "2026-06-16",
+      "last_updated": "2026-06-22",
       "tour_name": "20/26 World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "14-day window between London (Sep 26) and Taipei (Oct 10) — India sits on the Europe-to-Asia routing path; no prior India concert history but YG confirmed additional cities TBA",
+      "india_gap_note": "NEW: 57-day window between Hong Kong (Nov 13, 2026) and Kuala Lumpur (Jan 9, 2027) — India fits naturally in Nov-Dec 2026; original 14-day Europe-to-Asia gap (London Sep 26 -> Taipei Oct 10) also still open; no prior India concert history but YG confirmed additional cities TBA",
       "entries": [
         {
           "city": "Singapore",
@@ -351,9 +351,122 @@
           "date": "2026-11-13",
           "confirmed": true,
           "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
+        },
+        {
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "venue": "TM Stadium Nasional",
+          "date": "2027-01-09",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/pop/bigbang-reunite-31-date-world-stadium-tour-1236270234/"
+        },
+        {
+          "city": "Jakarta",
+          "country": "Indonesia",
+          "venue": "Jakarta International Stadium",
+          "date": "2027-01-16",
+          "confirmed": true,
+          "source_url": "https://us.trip.com/events/bigbang-world-tour-2027-in-jakarta-20260611/"
         }
       ],
-      "notified": true
+      "notified": false
+    },
+    {
+      "name": "Anyma",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "tour_name": "AEDEN World Tour 2026",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse — standalone India show as part of global AEDEN audiovisual tour",
+      "entries": [
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Mahalaxmi Racecourse",
+          "date": "2026-11-21",
+          "confirmed": true,
+          "source_url": "https://www.anyma.com/mumbai"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "YOASOBI",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "tour_name": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
+      "india_likelihood": "Low",
+      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) — no India history, no routing through South Asia; specific dates not yet announced",
+      "entries": [
+        {
+          "city": "Taipei",
+          "country": "Taiwan",
+          "venue": null,
+          "date": "2026-2027",
+          "confirmed": true,
+          "source_url": "https://niewmedia.com/en/news/2512yoasobi/"
+        },
+        {
+          "city": "Seoul",
+          "country": "South Korea",
+          "venue": null,
+          "date": "2026-2027",
+          "confirmed": true,
+          "source_url": "https://niewmedia.com/en/news/2512yoasobi/"
+        },
+        {
+          "city": "Hong Kong",
+          "country": "Hong Kong",
+          "venue": null,
+          "date": "2026-2027",
+          "confirmed": true,
+          "source_url": "https://niewmedia.com/en/news/2512yoasobi/"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": null,
+          "date": "2026-2027",
+          "confirmed": true,
+          "source_url": "https://niewmedia.com/en/news/2512yoasobi/"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "Def Leppard",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "tour_name": "Def Leppard India Tour 2026",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) — BookMyShow Live presented; shows have already taken place",
+      "entries": [
+        {
+          "city": "Shillong",
+          "country": "India",
+          "venue": "Jawaharlal Nehru Stadium (Polo Grounds)",
+          "date": "2026-03-25",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/def-leppard-india-tour-dates-tickets-cities/"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Jio World Garden, BKC",
+          "date": "2026-03-27",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/def-leppard-india-tour-dates-tickets-cities/"
+        },
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "NICE Grounds",
+          "date": "2026-03-29",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/def-leppard-india-tour-dates-tickets-cities/"
+        }
+      ],
+      "notified": false
     }
   ]
 }
