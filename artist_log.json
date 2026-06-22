@@ -7,7 +7,7 @@
       "last_updated": "2026-06-16",
       "tour_name": "Arirang World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) — India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
       "entries": [
         {
           "city": "Kaohsiung",
@@ -318,7 +318,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "20/26 World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "NEW: 57-day window between Hong Kong (Nov 13, 2026) and Kuala Lumpur (Jan 9, 2027) — India fits naturally in Nov-Dec 2026; original 14-day Europe-to-Asia gap (London Sep 26 -> Taipei Oct 10) also still open; no prior India concert history but YG confirmed additional cities TBA",
+      "india_gap_note": "NEW: 57-day window between Hong Kong (Nov 13, 2026) and Kuala Lumpur (Jan 9, 2027) \u2014 India fits naturally in Nov-Dec 2026; original 14-day Europe-to-Asia gap (London Sep 26 -> Taipei Oct 10) also still open; no prior India concert history but YG confirmed additional cities TBA",
       "entries": [
         {
           "city": "Singapore",
@@ -369,7 +369,7 @@
           "source_url": "https://us.trip.com/events/bigbang-world-tour-2027-in-jakarta-20260611/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Anyma",
@@ -377,7 +377,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "AEDEN World Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse — standalone India show as part of global AEDEN audiovisual tour",
+      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse \u2014 standalone India show as part of global AEDEN audiovisual tour",
       "entries": [
         {
           "city": "Mumbai",
@@ -388,7 +388,7 @@
           "source_url": "https://www.anyma.com/mumbai"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "YOASOBI",
@@ -396,7 +396,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
       "india_likelihood": "Low",
-      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) — no India history, no routing through South Asia; specific dates not yet announced",
+      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) \u2014 no India history, no routing through South Asia; specific dates not yet announced",
       "entries": [
         {
           "city": "Taipei",
@@ -431,7 +431,7 @@
           "source_url": "https://niewmedia.com/en/news/2512yoasobi/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Def Leppard",
@@ -439,7 +439,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "Def Leppard India Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) — BookMyShow Live presented; shows have already taken place",
+      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) \u2014 BookMyShow Live presented; shows have already taken place",
       "entries": [
         {
           "city": "Shillong",
@@ -466,7 +466,7 @@
           "source_url": "https://rollingstoneindia.com/def-leppard-india-tour-dates-tickets-cities/"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
