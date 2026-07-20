@@ -401,7 +401,7 @@
           "source_url": "https://us.trip.com/events/bigbang-world-tour-2027-in-jakarta-20260611/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Anyma",
@@ -525,7 +525,7 @@
           "source_url": "https://www.geo.tv/latest/659330-gorillaz-announce-first-ever-india-tour-dates-for-2027"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Fred Again..",
@@ -576,7 +576,7 @@
           "source_url": "https://www.billboard.com/music/music-news/fred-again-india-tour-dates-1236278811/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Foo Fighters",
@@ -603,7 +603,7 @@
           "source_url": "https://rollingstoneindia.com/foo-fighters-india-tour-dates-tickets-cities/"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
