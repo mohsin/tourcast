@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-22",
+  "last_checked": "2026-07-20",
   "artists": [
     {
       "name": "BTS",
@@ -7,7 +7,7 @@
       "last_updated": "2026-06-16",
       "tour_name": "Arirang World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) — India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
       "entries": [
         {
           "city": "Kaohsiung",
@@ -55,7 +55,7 @@
           "venue": "Kai Tak Stadium",
           "date": "2027-03-04",
           "confirmed": true,
-          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         },
         {
           "city": "Bulacan",
@@ -220,7 +220,7 @@
       "entries": [
         {
           "city": "Incheon",
-          "country": "South Kouth Korea",
+          "country": "South Korea",
           "venue": "Paradise City Culture Park",
           "date": "November 2026",
           "confirmed": true,
@@ -315,10 +315,10 @@
     {
       "name": "BIGBANG",
       "first_seen": "2026-06-16",
-      "last_updated": "2026-06-22",
+      "last_updated": "2026-07-20",
       "tour_name": "20/26 World Tour",
-      "india_likelihood": "Medium",
-      "india_gap_note": "NEW: 57-day window between Hong Kong (Nov 13, 2026) and Kuala Lumpur (Jan 9, 2027) \u2014 India fits naturally in Nov-Dec 2026; original 14-day Europe-to-Asia gap (London Sep 26 -> Taipei Oct 10) also still open; no prior India concert history but YG confirmed additional cities TBA",
+      "india_likelihood": "Low",
+      "india_gap_note": "Previously identified 57-day gap (Hong Kong Nov 13 → KL Jan 9) is now CLOSED by Japan dates: Osaka Nov 27-29, Nagoya Dec 5-6, Tokyo Dec 13-15, Fukuoka Dec 26-27. Only a 13-day window remains (Fukuoka Dec 27 → KL Jan 9) — insufficient for India. Likelihood downgraded from Medium to Low.",
       "entries": [
         {
           "city": "Singapore",
@@ -353,6 +353,38 @@
           "source_url": "https://www.rollingstone.com/music/music-news/bigbang-2026-world-tour-dates-1235573633/"
         },
         {
+          "city": "Osaka",
+          "country": "Japan",
+          "venue": "Kyocera Dome Osaka",
+          "date": "2026-11-27",
+          "confirmed": true,
+          "source_url": "https://www.facebook.com/BigbangIntlSupport/posts/-bigbang-2026-world-tour-in-japan-osaka-japan-kyocera-dome-osaka-show-dates-nov/1010501295288116/"
+        },
+        {
+          "city": "Nagoya",
+          "country": "Japan",
+          "venue": "Vantelin Dome Nagoya",
+          "date": "2026-12-05",
+          "confirmed": true,
+          "source_url": "https://ygex.jp/en/bigbang/20th-anniv/news/detail.php?id=1134230"
+        },
+        {
+          "city": "Tokyo",
+          "country": "Japan",
+          "venue": "Tokyo Dome",
+          "date": "2026-12-13",
+          "confirmed": true,
+          "source_url": "https://ygex.jp/en/bigbang/20th-anniv/news/detail.php?id=1134230"
+        },
+        {
+          "city": "Fukuoka",
+          "country": "Japan",
+          "venue": "Mizuho PayPay Dome Fukuoka",
+          "date": "2026-12-26",
+          "confirmed": true,
+          "source_url": "https://ygex.jp/en/bigbang/20th-anniv/news/detail.php?id=1134230"
+        },
+        {
           "city": "Kuala Lumpur",
           "country": "Malaysia",
           "venue": "TM Stadium Nasional",
@@ -369,7 +401,7 @@
           "source_url": "https://us.trip.com/events/bigbang-world-tour-2027-in-jakarta-20260611/"
         }
       ],
-      "notified": true
+      "notified": false
     },
     {
       "name": "Anyma",
@@ -377,7 +409,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "AEDEN World Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse \u2014 standalone India show as part of global AEDEN audiovisual tour",
+      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse — standalone India show as part of global AEDEN audiovisual tour",
       "entries": [
         {
           "city": "Mumbai",
@@ -396,7 +428,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
       "india_likelihood": "Low",
-      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) \u2014 no India history, no routing through South Asia; specific dates not yet announced",
+      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) — no India history, no routing through South Asia; specific dates not yet announced",
       "entries": [
         {
           "city": "Taipei",
@@ -439,7 +471,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "Def Leppard India Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) \u2014 BookMyShow Live presented; shows have already taken place",
+      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) — BookMyShow Live presented; shows have already taken place",
       "entries": [
         {
           "city": "Shillong",
@@ -467,6 +499,111 @@
         }
       ],
       "notified": true
+    },
+    {
+      "name": "Gorillaz",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "tour_name": "The Mountain Tour",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India debut confirmed: Bengaluru (Jan 23, 2027) at District Arena @ Terraform and Mumbai (Jan 27, 2027) at Jio World Garden, BKC — first-ever India shows; album 'The Mountain' was largely recorded in India with Indian collaborators expected on stage",
+      "entries": [
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "District Arena @ Terraform",
+          "date": "2027-01-23",
+          "confirmed": true,
+          "source_url": "https://www.timeout.com/india/news/its-official-gorillaz-india-tour-2027-heres-how-to-get-tickets-040926"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Jio World Garden, BKC",
+          "date": "2027-01-27",
+          "confirmed": true,
+          "source_url": "https://www.geo.tv/latest/659330-gorillaz-announce-first-ever-india-tour-dates-for-2027"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "Fred Again..",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "tour_name": "Fred Again.. India Tour 2026",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India debut confirmed: 5-show run in December 2026 across Delhi, Mumbai (x2), Bengaluru (x2) — original 3 dates announced Jun 24, 2 additional shows added Jul 6 after originals sold out in 15 minutes",
+      "entries": [
+        {
+          "city": "Delhi NCR",
+          "country": "India",
+          "venue": "Leisure Valley Ground",
+          "date": "2026-12-05",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/music-news/fred-again-india-tour-dates-1236278811/"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Mahalaxmi Race Course",
+          "date": "2026-12-08",
+          "confirmed": true,
+          "source_url": "https://weraveyou.com/2026/07/fred-again-india-tour-two-new-dates-added/"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Mahalaxmi Race Course",
+          "date": "2026-12-09",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/music-news/fred-again-india-tour-dates-1236278811/"
+        },
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "NICE Grounds",
+          "date": "2026-12-12",
+          "confirmed": true,
+          "source_url": "https://weraveyou.com/2026/07/fred-again-india-tour-two-new-dates-added/"
+        },
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "NICE Grounds",
+          "date": "2026-12-13",
+          "confirmed": true,
+          "source_url": "https://www.billboard.com/music/music-news/fred-again-india-tour-dates-1236278811/"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "Foo Fighters",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "tour_name": "Foo Fighters India Debut Tour 2027",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India debut confirmed: Bengaluru (Jan 29, 2027) at Bengaluru LIVE and Mumbai (Jan 31, 2027) at Mahalaxmi Race Course — first India shows in the band's 31-year history; BookMyShow Live 'Bandland on Tour' promotion",
+      "entries": [
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "Bengaluru LIVE",
+          "date": "2027-01-29",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/foo-fighters-india-tour-dates-tickets-cities/"
+        },
+        {
+          "city": "Mumbai",
+          "country": "India",
+          "venue": "Mahalaxmi Race Course",
+          "date": "2027-01-31",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/foo-fighters-india-tour-dates-tickets-cities/"
+        }
+      ],
+      "notified": false
     }
   ]
 }
