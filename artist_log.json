@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20",
+  "last_checked": "2026-08-03",
   "artists": [
     {
       "name": "BTS",
@@ -604,6 +604,60 @@
         }
       ],
       "notified": true
+    },
+    {
+      "name": "Guns N' Roses",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "tour_name": "Because What You Want & What You Get Are Two Completely Different Things Tour",
+      "india_likelihood": "Confirmed",
+      "india_gap_note": "India confirmed: Bengaluru (Nov 14) at NICE Grounds and Guwahati (Nov 17) at Khanapara Ground — follows their 2025 Mumbai debut (first India show in 12+ years); Singapore (Nov 25) also on this leg before Australia/NZ run",
+      "entries": [
+        {
+          "city": "Bengaluru",
+          "country": "India",
+          "venue": "NICE Grounds",
+          "date": "2026-11-14",
+          "confirmed": true,
+          "source_url": "https://variety.com/2026/music/news/guns-n-roses-india-bengaluru-guwahati-1236769190/"
+        },
+        {
+          "city": "Guwahati",
+          "country": "India",
+          "venue": "Khanapara Ground",
+          "date": "2026-11-17",
+          "confirmed": true,
+          "source_url": "https://rollingstoneindia.com/guns-n-roses-bengaluru-guwahati-concert-dates-tickets/"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "National Stadium",
+          "date": "2026-11-25",
+          "confirmed": true,
+          "source_url": "https://mothership.sg/2026/03/guns-n-roses-national-stadium-nov-2026/"
+        }
+      ],
+      "notified": false
+    },
+    {
+      "name": "BABYMONSTER",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "tour_name": "CHOOM World Tour",
+      "india_likelihood": "Low",
+      "india_gap_note": "Tightly packed Asia/Oceania leg across Manila, Macau, Jakarta, Bangkok, KL, Taipei, Singapore, Hong Kong, Auckland, Melbourne, Sydney (Oct-Nov 2026) with no India history and no South Asia routing gap identified",
+      "entries": [
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "Singapore Indoor Stadium",
+          "date": "2026-11-28",
+          "confirmed": true,
+          "source_url": "https://www.bandwagon.asia/articles/babymonster-return-to-singapore-this-november-for-choom-world-tour-here-s-how-to-get-tickets"
+        }
+      ],
+      "notified": false
     }
   ]
 }
