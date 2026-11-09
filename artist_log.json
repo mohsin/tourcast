@@ -130,7 +130,7 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "The Weeknd",
@@ -597,7 +597,7 @@
           "source_url": "https://weraveyou.com/2026/09/gorillaz-india-guwahati-sarusajai-stadium-january-31-2027-the-mountain-tour/"
         }
       ],
-      "notified": false
+      "notified": true
     },
     {
       "name": "Fred Again..",
@@ -756,7 +756,7 @@
           "source_url": "https://www.singaporeexpo.com.sg/events-at-expo/joji-solaris/"
         }
       ],
-      "notified": false
+      "notified": true
     }
   ]
 }
