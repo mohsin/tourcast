@@ -1,13 +1,13 @@
 {
-  "last_checked": "2026-08-03",
+  "last_checked": "2026-11-09",
   "artists": [
     {
       "name": "BTS",
       "first_seen": "2026-06-01",
-      "last_updated": "2026-06-16",
+      "last_updated": "2026-11-09",
       "tour_name": "Arirang World Tour",
       "india_likelihood": "Medium",
-      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) — India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
+      "india_gap_note": "46-day window between Jakarta (Dec 27, 2026) and Melbourne (Feb 12, 2027) \u2014 India slot in January 2027 possible; HYBE Mumbai office became operational late 2025 and Phase 2 2027 dates widely expected",
       "entries": [
         {
           "city": "Kaohsiung",
@@ -18,6 +18,22 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         },
         {
+          "city": "Kaohsiung",
+          "country": "Taiwan",
+          "venue": "National Stadium",
+          "date": "2026-11-21",
+          "confirmed": true,
+          "source_url": "https://www.broadwayworld.com/article/BTS-Reveal-Venues-for-Asia-and-Australian-Legs-of-ARIRANG-World-Tour-20260522"
+        },
+        {
+          "city": "Kaohsiung",
+          "country": "Taiwan",
+          "venue": "National Stadium",
+          "date": "2026-11-22",
+          "confirmed": true,
+          "source_url": "https://www.broadwayworld.com/article/BTS-Reveal-Venues-for-Asia-and-Australian-Legs-of-ARIRANG-World-Tour-20260522"
+        },
+        {
           "city": "Bangkok",
           "country": "Thailand",
           "venue": "Rajamangala National Stadium",
@@ -26,20 +42,68 @@
           "source_url": "https://www.jambase.com/article/bts-tour-dates-arirang-world-tour-asia-australia"
         },
         {
+          "city": "Bangkok",
+          "country": "Thailand",
+          "venue": "Rajamangala National Stadium",
+          "date": "2026-12-05",
+          "confirmed": true,
+          "source_url": "https://www.broadwayworld.com/article/BTS-Reveal-Venues-for-Asia-and-Australian-Legs-of-ARIRANG-World-Tour-20260522"
+        },
+        {
+          "city": "Bangkok",
+          "country": "Thailand",
+          "venue": "Rajamangala National Stadium",
+          "date": "2026-12-06",
+          "confirmed": true,
+          "source_url": "https://www.broadwayworld.com/article/BTS-Reveal-Venues-for-Asia-and-Australian-Legs-of-ARIRANG-World-Tour-20260522"
+        },
+        {
           "city": "Kuala Lumpur",
           "country": "Malaysia",
           "venue": "Axiata Arena",
-          "date": "December 2026",
+          "date": "2026-12-12",
+          "confirmed": true,
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "venue": "Axiata Arena",
+          "date": "2026-12-13",
           "confirmed": true,
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         },
         {
           "city": "Singapore",
           "country": "Singapore",
-          "venue": "Marina Bay Floating Platform",
+          "venue": "National Stadium",
           "date": "2026-12-17",
           "confirmed": true,
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "National Stadium",
+          "date": "2026-12-19",
+          "confirmed": true,
+          "source_url": "https://www.factmagazines.com/singapore/bts-is-bringing-a-four-night-world-tour-stop-to-singapore-this-december"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "National Stadium",
+          "date": "2026-12-20",
+          "confirmed": true,
+          "source_url": "https://www.factmagazines.com/singapore/bts-is-bringing-a-four-night-world-tour-stop-to-singapore-this-december"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "National Stadium",
+          "date": "2026-12-22",
+          "confirmed": true,
+          "source_url": "https://www.factmagazines.com/singapore/bts-is-bringing-a-four-night-world-tour-stop-to-singapore-this-december"
         },
         {
           "city": "Jakarta",
@@ -55,7 +119,7 @@
           "venue": "Kai Tak Stadium",
           "date": "2027-03-04",
           "confirmed": true,
-          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
+          "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         },
         {
           "city": "Bulacan",
@@ -66,7 +130,7 @@
           "source_url": "https://en.koreaportal.com/articles/54380/20260317/bts-world-tour-2026-schedule-with-confirmed-arirang-dates-venues-and-official-ticket-links-find-bts-tickets-for-usa-europe-asia-australia-and-more.htm"
         }
       ],
-      "notified": true
+      "notified": false
     },
     {
       "name": "The Weeknd",
@@ -318,7 +382,7 @@
       "last_updated": "2026-07-20",
       "tour_name": "20/26 World Tour",
       "india_likelihood": "Low",
-      "india_gap_note": "Previously identified 57-day gap (Hong Kong Nov 13 → KL Jan 9) is now CLOSED by Japan dates: Osaka Nov 27-29, Nagoya Dec 5-6, Tokyo Dec 13-15, Fukuoka Dec 26-27. Only a 13-day window remains (Fukuoka Dec 27 → KL Jan 9) — insufficient for India. Likelihood downgraded from Medium to Low.",
+      "india_gap_note": "Previously identified 57-day gap (Hong Kong Nov 13 \u2192 KL Jan 9) is now CLOSED by Japan dates: Osaka Nov 27-29, Nagoya Dec 5-6, Tokyo Dec 13-15, Fukuoka Dec 26-27. Only a 13-day window remains (Fukuoka Dec 27 \u2192 KL Jan 9) \u2014 insufficient for India. Likelihood downgraded from Medium to Low.",
       "entries": [
         {
           "city": "Singapore",
@@ -409,7 +473,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "AEDEN World Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse — standalone India show as part of global AEDEN audiovisual tour",
+      "india_gap_note": "India debut confirmed: Mumbai (Nov 21, 2026) at Mahalaxmi Racecourse \u2014 standalone India show as part of global AEDEN audiovisual tour",
       "entries": [
         {
           "city": "Mumbai",
@@ -428,7 +492,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
       "india_likelihood": "Low",
-      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) — no India history, no routing through South Asia; specific dates not yet announced",
+      "india_gap_note": "Confirmed international cities are Taipei, Seoul, Hong Kong, Singapore (+ 1 TBA city) \u2014 no India history, no routing through South Asia; specific dates not yet announced",
       "entries": [
         {
           "city": "Taipei",
@@ -471,7 +535,7 @@
       "last_updated": "2026-06-22",
       "tour_name": "Def Leppard India Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) — BookMyShow Live presented; shows have already taken place",
+      "india_gap_note": "India debut completed (March 2026): Shillong (Mar 25), Mumbai (Mar 27), Bengaluru (Mar 29) \u2014 BookMyShow Live presented; shows have already taken place",
       "entries": [
         {
           "city": "Shillong",
@@ -503,10 +567,10 @@
     {
       "name": "Gorillaz",
       "first_seen": "2026-07-20",
-      "last_updated": "2026-07-20",
+      "last_updated": "2026-11-09",
       "tour_name": "The Mountain Tour",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: Bengaluru (Jan 23, 2027) at District Arena @ Terraform and Mumbai (Jan 27, 2027) at Jio World Garden, BKC — first-ever India shows; album 'The Mountain' was largely recorded in India with Indian collaborators expected on stage",
+      "india_gap_note": "India debut confirmed: Bengaluru (Jan 23, 2027) at District Arena @ Terraform, Mumbai (Jan 27, 2027) at Jio World Garden BKC, and Guwahati (Jan 31, 2027) at Sarusajai Sports Complex \u2014 third date added Sep 10, 2026 by Assam Tourism/District; first-ever India shows",
       "entries": [
         {
           "city": "Bengaluru",
@@ -523,9 +587,17 @@
           "date": "2027-01-27",
           "confirmed": true,
           "source_url": "https://www.geo.tv/latest/659330-gorillaz-announce-first-ever-india-tour-dates-for-2027"
+        },
+        {
+          "city": "Guwahati",
+          "country": "India",
+          "venue": "Sarusajai Sports Complex",
+          "date": "2027-01-31",
+          "confirmed": true,
+          "source_url": "https://weraveyou.com/2026/09/gorillaz-india-guwahati-sarusajai-stadium-january-31-2027-the-mountain-tour/"
         }
       ],
-      "notified": true
+      "notified": false
     },
     {
       "name": "Fred Again..",
@@ -533,7 +605,7 @@
       "last_updated": "2026-07-20",
       "tour_name": "Fred Again.. India Tour 2026",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: 5-show run in December 2026 across Delhi, Mumbai (x2), Bengaluru (x2) — original 3 dates announced Jun 24, 2 additional shows added Jul 6 after originals sold out in 15 minutes",
+      "india_gap_note": "India debut confirmed: 5-show run in December 2026 across Delhi, Mumbai (x2), Bengaluru (x2) \u2014 original 3 dates announced Jun 24, 2 additional shows added Jul 6 after originals sold out in 15 minutes",
       "entries": [
         {
           "city": "Delhi NCR",
@@ -584,7 +656,7 @@
       "last_updated": "2026-07-20",
       "tour_name": "Foo Fighters India Debut Tour 2027",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India debut confirmed: Bengaluru (Jan 29, 2027) at Bengaluru LIVE and Mumbai (Jan 31, 2027) at Mahalaxmi Race Course — first India shows in the band's 31-year history; BookMyShow Live 'Bandland on Tour' promotion",
+      "india_gap_note": "India debut confirmed: Bengaluru (Jan 29, 2027) at Bengaluru LIVE and Mumbai (Jan 31, 2027) at Mahalaxmi Race Course \u2014 first India shows in the band's 31-year history; BookMyShow Live 'Bandland on Tour' promotion",
       "entries": [
         {
           "city": "Bengaluru",
@@ -611,7 +683,7 @@
       "last_updated": "2026-08-03",
       "tour_name": "Because What You Want & What You Get Are Two Completely Different Things Tour",
       "india_likelihood": "Confirmed",
-      "india_gap_note": "India confirmed: Bengaluru (Nov 14) at NICE Grounds and Guwahati (Nov 17) at Khanapara Ground — follows their 2025 Mumbai debut (first India show in 12+ years); Singapore (Nov 25) also on this leg before Australia/NZ run",
+      "india_gap_note": "India confirmed: Bengaluru (Nov 14) at NICE Grounds and Guwahati (Nov 17) at Khanapara Ground \u2014 follows their 2025 Mumbai debut (first India show in 12+ years); Singapore (Nov 25) also on this leg before Australia/NZ run",
       "entries": [
         {
           "city": "Bengaluru",
@@ -658,6 +730,33 @@
         }
       ],
       "notified": true
+    },
+    {
+      "name": "Joji",
+      "first_seen": "2026-11-09",
+      "last_updated": "2026-11-09",
+      "tour_name": "SOLARIS Tour",
+      "india_likelihood": "Low",
+      "india_gap_note": "Asia leg runs Nov 19-29 (Singapore Nov 21-22, Bangkok, Hong Kong, Kaohsiung) \u2014 no India dates, no India concert history; leg is tightly packed across 4 cities in 11 days with no routing gap for South Asia",
+      "entries": [
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "Arena @ EXPO (Hall 7)",
+          "date": "2026-11-21",
+          "confirmed": true,
+          "source_url": "https://www.singaporeexpo.com.sg/events-at-expo/joji-solaris/"
+        },
+        {
+          "city": "Singapore",
+          "country": "Singapore",
+          "venue": "Arena @ EXPO (Hall 7)",
+          "date": "2026-11-22",
+          "confirmed": true,
+          "source_url": "https://www.singaporeexpo.com.sg/events-at-expo/joji-solaris/"
+        }
+      ],
+      "notified": false
     }
   ]
 }
